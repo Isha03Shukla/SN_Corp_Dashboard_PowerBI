@@ -34,4 +34,6 @@ I successfully provided insights and answers to stakeholder queries:
 - **Total sales of Chairs in the Central Region**: **$121,084**  
 - **Shipping mode with the second-highest orders in Q3, 2018**: **Economy Plus (63 orders)**  
 
+Link - https://app.powerbi.com/links/TdxHItPpMp?ctid=d02378ec-1688-46d5-8540-1c28b5f470f6&pbi_source=linkShare
+
 This dashboard enhanced data exploration, enabling stakeholders to make quick and informed business decisions.
